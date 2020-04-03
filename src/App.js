@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>New title specially for Mirsaid!)) <3</h1>
+      <h1>New title specially for Mirsaid!</h1>
     </div>
   );
 }
